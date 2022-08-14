@@ -1,0 +1,17 @@
+.sticky-section-wrapper
+.elementor-wiget-wrap{
+display:block
+!important;
+}
+.sticky-section-wrapper .sticky-section{
+position: sticky;
+top: 20px;
+}
+#masthead .ast-container, .ast-header-breadcrumb .ast-container{
+position:fixed;
+width: 100%;
+background-color:white;
+}
+.elementor-widget-wrap>.elementor-element {
+margin-top: 15px;
+}

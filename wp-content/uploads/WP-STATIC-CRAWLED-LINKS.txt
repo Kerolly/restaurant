@@ -1,0 +1,9 @@
+/
+/2021/
+/2021/02/
+/2021/02/02/
+/2021/02/02/burger/
+/2021/02/02/pizza/
+/?ae_global_templates=butoane_comandaback
+/?ae_global_templates=meniuri-sidebar
+/?ae_global_templates=tabdeserturi
